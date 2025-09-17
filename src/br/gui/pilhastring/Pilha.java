@@ -56,24 +56,5 @@ public class Pilha {
 		}
 		return cont;
 	}
-	
-	
+		
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
